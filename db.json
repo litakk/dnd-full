@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": "8d46",
+      "title": "xazrat chlenososalkin108",
+      "column": "1"
+    }
+  ],
+  "columns": [
+    {
+      "id": "1",
+      "title": "To Do"
+    },
+    {
+      "id": "2",
+      "title": "In Progress"
+    },
+    {
+      "id": "3",
+      "title": "Done"
+    }
+  ]
+}
