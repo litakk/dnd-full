@@ -1,39 +1,24 @@
 {
   "todos": [
     {
-      "id": "08ef",
-      "title": "asdasd",
-      "column": "2"
-    },
-    {
-      "id": "4e67",
-      "title": "asasdasd",
-      "column": "2"
-    },
-    {
-      "title": "azamat",
-      "id": "aea9"
-    },
-    {
-      "title": "fedya321",
-      "id": "e2a8"
-    },
-    {
-      "title": "ззазазазазазаз",
-      "id": "d63f"
-    },
-    {
-      "title": "ззззззззззззззззззззззззззз",
-      "id": "96db"
-    },
-    {
       "id": "409e",
       "title": "oqwowqeoqeqoweo",
       "column": ""
     },
     {
-      "title": "fasmfasmfmm",
-      "id": "9bcc"
+      "id": "3cda",
+      "title": "Помыть посуду",
+      "column": "1"
+    },
+    {
+      "id": "b08e",
+      "title": "Помыть пол",
+      "column": "2"
+    },
+    {
+      "id": "aa4b",
+      "title": "Сходить в магазин",
+      "column": "3"
     }
   ],
   "columns": [
